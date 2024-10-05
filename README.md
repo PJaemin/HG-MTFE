@@ -44,14 +44,14 @@ python lowlight_test.py
 ```
 4. The result images are saved at ./data/analysis
 
-## Citation
+## Citation (To be updated)
 If you find this work useful for your research, please consider citing our paper:
 ```
-@article{Park2023,
+@article{Park20224,
     author={{Park, Jaemin and Vien, An Gia and Pham, Thuy Thi and Kim, Hanul and Lee, Chul}},
     booktitle={},
     title={Image Enhancement via Cross-Attention-Based Multiple Transformation Function Estimation}, 
-    year={2023},
+    year={2024},
     volume={},
     number={},
     pages={},
