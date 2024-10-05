@@ -50,11 +50,11 @@ python lowlight_test.py
 ## Citation (To be updated)
 If you find this work useful for your research, please consider citing our paper:
 ```
-@article{Park20224,
+@article{Park2024HGMTFE,
     author={{Park, Jaemin and Vien, An Gia and Pham, Thuy Thi and Kim, Hanul and Lee, Chul}},
-    booktitle={},
+    booktitle={IEEE Transactions on Consumer Electronics},
     title={Image Enhancement via Cross-Attention-Based Multiple Transformation Function Estimation}, 
-    year={2024},
+    year={},
     volume={},
     number={},
     pages={},
