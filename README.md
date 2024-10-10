@@ -1,7 +1,7 @@
 # HG-MTFE
 
 ### Jaemin Park, An Gia Vien, Thuy Thi Pham, Hanul Kim, and Chul Lee
-Official pytorch implementation for **"Image Enhancement via Cross-Attention-Based Multiple Transformation Function Estimation"**, accepted for publication in **IEEE Transactions on Consumer Electronics**.
+Official pytorch implementation for **"Image Enhancement via Cross-Attention-Based Multiple Transformation Function Estimation,"** accepted for publication in **IEEE Transactions on Consumer Electronics**.
 
 
 <p float="left">
