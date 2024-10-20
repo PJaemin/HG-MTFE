@@ -1,7 +1,8 @@
 # HG-MTFE
 
 ### Jaemin Park, An Gia Vien, Thuy Thi Pham, Hanul Kim, and Chul Lee
-Official pytorch implementation for **"Image Enhancement Based on Histogram-Guided Multiple Transformation Function Estimation,"** accepted for publication in **IEEE Transactions on Consumer Electronics**.
+Official pytorch implementation for **"Image Enhancement Based on Histogram-Guided Multiple Transformation Function Estimation,"** accepted for publication in **IEEE Transactions on Consumer Electronics**. <br/>
+[Paper](https://ieeexplore.ieee.org/abstract/document/10707348)
 
 
 <p float="left">
